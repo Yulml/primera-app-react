@@ -1,0 +1,11 @@
+.center {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+.brown {
+    color: brown;
+}  
